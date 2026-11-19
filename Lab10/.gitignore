@@ -1,0 +1,4 @@
+.env
+benchmarks/results.json
+node-service/node_modules/
+node-service/dist/

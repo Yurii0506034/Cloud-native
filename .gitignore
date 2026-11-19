@@ -1,3 +1,12 @@
-
-Lab5/data/
-Lab5/node_modules/
+.env
+**/.env
+*.pem
+*.key
+**/certs/*.pem
+**/certs/*.key
+**/node_modules/
+**/bin/
+**/dist/
+lab10_reg.json
+lab10_login.json
+lab10_bad.json
